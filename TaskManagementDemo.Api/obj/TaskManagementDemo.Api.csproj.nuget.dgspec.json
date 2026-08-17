@@ -1,37 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj": {}
+    "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj": {}
   },
   "projects": {
-    "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj": {
+    "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj",
+        "projectUniqueName": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj",
         "projectName": "TaskManagementDemo.Api",
-        "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj",
-        "packagesPath": "/home/thet-htoo/.nuget/packages/",
-        "outputPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Api/obj/",
+        "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Api/TaskManagementDemo.Api.csproj",
+        "packagesPath": "/var/folders/p6/rv1rjxy10ngdsqy6d_gy38s00000gn/T/cursor-sandbox-cache/7ca2c15ab7185c723de2c265ee7c1a57/nuget",
+        "outputPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/thet-htoo/.nuget/NuGet/NuGet.Config"
+          "/Users/thethtoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj": {
-                "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj"
+              "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj": {
+                "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj"
               },
-              "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj": {
-                "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj"
+              "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj": {
+                "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj"
               }
             }
           }
@@ -46,10 +46,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -76,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -494,31 +495,31 @@
         }
       }
     },
-    "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj": {
+    "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj",
+        "projectUniqueName": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj",
         "projectName": "TaskManagementDemo.Application",
-        "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj",
-        "packagesPath": "/home/thet-htoo/.nuget/packages/",
-        "outputPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/",
+        "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj",
+        "packagesPath": "/var/folders/p6/rv1rjxy10ngdsqy6d_gy38s00000gn/T/cursor-sandbox-cache/7ca2c15ab7185c723de2c265ee7c1a57/nuget",
+        "outputPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/thet-htoo/.nuget/NuGet/NuGet.Config"
+          "/Users/thethtoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj": {
-                "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj"
+              "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj": {
+                "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj"
               }
             }
           }
@@ -533,10 +534,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -554,7 +556,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -832,27 +834,27 @@
         }
       }
     },
-    "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj": {
+    "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj",
+        "projectUniqueName": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj",
         "projectName": "TaskManagementDemo.Domain",
-        "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj",
-        "packagesPath": "/home/thet-htoo/.nuget/packages/",
-        "outputPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/",
+        "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj",
+        "packagesPath": "/var/folders/p6/rv1rjxy10ngdsqy6d_gy38s00000gn/T/cursor-sandbox-cache/7ca2c15ab7185c723de2c265ee7c1a57/nuget",
+        "outputPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/thet-htoo/.nuget/NuGet/NuGet.Config"
+          "/Users/thethtoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -867,10 +869,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -888,7 +891,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1166,34 +1169,34 @@
         }
       }
     },
-    "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj": {
+    "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj",
+        "projectUniqueName": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj",
         "projectName": "TaskManagementDemo.Infrastructure",
-        "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj",
-        "packagesPath": "/home/thet-htoo/.nuget/packages/",
-        "outputPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Infrastructure/obj/",
+        "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Infrastructure/TaskManagementDemo.Infrastructure.csproj",
+        "packagesPath": "/var/folders/p6/rv1rjxy10ngdsqy6d_gy38s00000gn/T/cursor-sandbox-cache/7ca2c15ab7185c723de2c265ee7c1a57/nuget",
+        "outputPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/thet-htoo/.nuget/NuGet/NuGet.Config"
+          "/Users/thethtoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj": {
-                "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj"
+              "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj": {
+                "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Application/TaskManagementDemo.Application.csproj"
               },
-              "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj": {
-                "projectPath": "/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj"
+              "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj": {
+                "projectPath": "/Users/thethtoo/TAT-Work-Files/tat-dotnet-prodjects/task-management-api/TaskManagementDemo.Domain/TaskManagementDemo.Domain.csproj"
               }
             }
           }
@@ -1208,10 +1211,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
@@ -1241,7 +1245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
