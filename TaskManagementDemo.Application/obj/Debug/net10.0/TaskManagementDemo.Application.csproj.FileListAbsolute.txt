@@ -1,0 +1,15 @@
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/bin/Debug/net10.0/TaskManagementDemo.Application.deps.json
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/bin/Debug/net10.0/TaskManagementDemo.Application.dll
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/bin/Debug/net10.0/TaskManagementDemo.Application.pdb
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/bin/Debug/net10.0/TaskManagementDemo.Domain.dll
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/bin/Debug/net10.0/TaskManagementDemo.Domain.pdb
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskManagementDemo.Application.csproj.AssemblyReference.cache
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskManagementDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskManagementDemo.Application.AssemblyInfoInputs.cache
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskManagementDemo.Application.AssemblyInfo.cs
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskManagementDemo.Application.csproj.CoreCompileInputs.cache
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskMana.25F02E97.Up2Date
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskManagementDemo.Application.dll
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/refint/TaskManagementDemo.Application.dll
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/TaskManagementDemo.Application.pdb
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Application/obj/Debug/net10.0/ref/TaskManagementDemo.Application.dll

@@ -1,0 +1,11 @@
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/bin/Debug/net10.0/TaskManagementDemo.Domain.deps.json
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/bin/Debug/net10.0/TaskManagementDemo.Domain.dll
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/bin/Debug/net10.0/TaskManagementDemo.Domain.pdb
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/TaskManagementDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/TaskManagementDemo.Domain.AssemblyInfoInputs.cache
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/TaskManagementDemo.Domain.AssemblyInfo.cs
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/TaskManagementDemo.Domain.csproj.CoreCompileInputs.cache
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/TaskManagementDemo.Domain.dll
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/refint/TaskManagementDemo.Domain.dll
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/TaskManagementDemo.Domain.pdb
+/home/thet-htoo/Projects/tat-projects/TaskManagementDemo/TaskManagementDemo.Domain/obj/Debug/net10.0/ref/TaskManagementDemo.Domain.dll
